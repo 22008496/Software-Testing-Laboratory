@@ -99,6 +99,8 @@ iterate()
 
 i)do…while:
 
+```
+
 Positive numbers
 Enter a positive value for START: 1
 Enter a positive value for END: 4
@@ -118,8 +120,11 @@ Null input
 Enter a positive value for START:
 Enter a positive value for END:
 Enter a valid positive number. 
+```
 
 ii) while…do:
+
+```
 
 Positive numbers
 Enter a positive value for START: 1
@@ -143,8 +148,10 @@ Null input
 Enter a positive value for START:
 Enter a positive value for END:
 Enter a valid positive number. 
+```
 
 iii) switch:
+```
 
 Positive numbers
 Enter a value for N: 1
@@ -163,11 +170,11 @@ Enter a valid number.
 Null input
 Enter a value for N:
 Enter a valid number. 
-
+```
 
 iv) if else:
 
-
+```
 Positive numbers
 Enter a value for A: 1
 Enter a value for B: 1
@@ -190,9 +197,9 @@ Null input
 Enter a value for A:
 Enter a value for B:
 Enter a valid number. 
-
+```
 v) for:
-
+```
 Characters
 Enter a string: say
 115 97 121
@@ -203,7 +210,7 @@ Enter a string: 1543
 
 Null input
 Enter a string: 
-
+```
 
 
 
