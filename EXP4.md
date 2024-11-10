@@ -38,29 +38,10 @@ else:
 
 ### Output:
 
-```
-Enter the Input: 0
-Armstrong Number
 
-Enter the Input: 153
-Armstrong Number
+![Screenshot 2024-10-28 191209](https://github.com/user-attachments/assets/7dfa0e62-bbe3-404b-8825-b74e709bcd08)
 
-Enter the Input: 44
-Not a Armstong Number
-
-Enter the Input: -153
-Not a Armstrong Number
-Reason: The input can only be a positive integer.
-
-Enter the Input: Raghul
-Enter a positive integer
-Reason: The input can only be of a positive integer.
-
-Enter the Input: !@#
-Enter a positive integer
-Reason: The special characters are not allowed.
-
-```
+![Screenshot 2024-10-28 191330](https://github.com/user-attachments/assets/3627ebf1-d493-4f87-89a9-712238254229)
 
 
 ### Result:
