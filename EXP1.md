@@ -99,26 +99,26 @@ iterate()
 
 i)do…while:
 
-![Screenshot 2024-11-10 210819](https://github.com/user-attachments/assets/5d763e7d-f4cf-4720-938f-f8b2eece7f61)
+![Screenshot 2024-10-01 135840](https://github.com/user-attachments/assets/ccedd5c9-0a59-4772-af73-5c7bd4cbabe9)
 
 
 ii) while…do:
 
-![Screenshot 2024-11-10 210909](https://github.com/user-attachments/assets/e924413d-b230-49cc-8ed1-f5e6898db48c)
+![Screenshot 2024-10-01 141338](https://github.com/user-attachments/assets/49775edc-bcde-4795-bbbb-6ccd8fd0772e)
 
 
 iii) switch:
 
-![Screenshot 2024-11-10 211155](https://github.com/user-attachments/assets/e0546f04-3c6a-49d2-8eae-249f7893d1b5)
+![Screenshot 2024-10-01 143652](https://github.com/user-attachments/assets/c1453484-1fe6-4e27-9321-2d4cd4caafb9)
 
 
 iv) if else:
 
-![371402489-5f2a81b0-c188-4423-8a50-6c9b654aeac3](https://github.com/user-attachments/assets/5650ab1a-571c-42da-b517-6f735130656f)
+![Screenshot 2024-10-08 142941](https://github.com/user-attachments/assets/ec0017de-4c31-4dbd-97b1-cdc5553684b2)
 
 v) for:
 
-![371403549-acb1e794-570d-47a7-8681-42acbbeff8ab](https://github.com/user-attachments/assets/7a092dfb-d562-425c-b078-2150acb54647)
+![Screenshot 2024-10-08 143731](https://github.com/user-attachments/assets/37aeca4a-0b5d-43c7-b638-a961ad2995c5)
 
 
 
