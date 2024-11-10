@@ -41,25 +41,8 @@ else:
 
 ### Output:
 
-```
-Enter a Positive number: 2
-Prime number
+![Screenshot 2024-10-28 190453](https://github.com/user-attachments/assets/8d07f263-95fd-465d-8bee-20de28533f53)
 
-Enter a Positive number: 5
-Prime number
-
-Enter a Positive number: Raghul
-Enter a positive number 
-Reason: Strings are not allowed
-
-Enter a Positive number: -1
-Enter a positive number
-Reason: Negative number are not allowed.
-
-Enter a Positive number: 1
-Not a Prime number 
-Reason: The entered number is not a prime number.
-```
 
 ### Result:
 Thus, the python program to check the number is prime or not is implemented and the output is verified successfully.
