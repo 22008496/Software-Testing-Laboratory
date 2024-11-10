@@ -99,118 +99,27 @@ iterate()
 
 i)do…while:
 
-```
+![Screenshot 2024-11-10 210819](https://github.com/user-attachments/assets/5d763e7d-f4cf-4720-938f-f8b2eece7f61)
 
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-Character and string input
-Enter a positive value for START: hello
-Enter a positive value for END: y
-Enter a valid positive number. 
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
 
 ii) while…do:
 
-```
+![Screenshot 2024-11-10 210909](https://github.com/user-attachments/assets/e924413d-b230-49cc-8ed1-f5e6898db48c)
 
-Positive numbers
-Enter a positive value for START: 1
-Enter a positive value for END: 4
-1 2 3 4 
-
-
-Negative numbers
-Enter a positive value for START: -10
-Enter a positive value for END: 5 Enter
-a valid positive number. 
-
-
-Character and string input
-Enter a positive value for START: abc
-Enter a positive value for END: 100
-Enter a valid positive number. 
-
-
-Null input
-Enter a positive value for START:
-Enter a positive value for END:
-Enter a valid positive number. 
-```
 
 iii) switch:
-```
 
-Positive numbers
-Enter a value for N: 1
-odd
+![Screenshot 2024-11-10 211155](https://github.com/user-attachments/assets/e0546f04-3c6a-49d2-8eae-249f7893d1b5)
 
-Negative numbers
-Enter a value for N: -10
-even
-
-
-Character and string input
-Enter a value for N: hello
-Enter a valid number.
-
-
-Null input
-Enter a value for N:
-Enter a valid number. 
-```
 
 iv) if else:
 
-```
-Positive numbers
-Enter a value for A: 1
-Enter a value for B: 1
-A is equal to B.
+![371402489-5f2a81b0-c188-4423-8a50-6c9b654aeac3](https://github.com/user-attachments/assets/5650ab1a-571c-42da-b517-6f735130656f)
 
-
-Negative numbers
-Enter a value for A: -10
-Enter a value for B: 5 B
-is greater than A.
-
-
-Character and string input
-Enter a value for A: hello
-Enter a value for B: y
-Enter a valid number.
-
-
-Null input
-Enter a value for A:
-Enter a value for B:
-Enter a valid number. 
-```
 v) for:
-```
-Characters
-Enter a string: say
-115 97 121
 
-Number
-Enter a string: 1543
-49 53 52 51
+![371403549-acb1e794-570d-47a7-8681-42acbbeff8ab](https://github.com/user-attachments/assets/7a092dfb-d562-425c-b078-2150acb54647)
 
-Null input
-Enter a string: 
-```
 
 
 
