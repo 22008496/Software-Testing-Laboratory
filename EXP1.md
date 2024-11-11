@@ -123,6 +123,26 @@ v) for:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
 
