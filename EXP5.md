@@ -1,6 +1,6 @@
 # Ex.No: 5 Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
 
-# DATE: 24.09.2024
+# DATE: 10.09.2024
 # REGISTER NUMBER : 212222040091
 
 ### AIM: 
